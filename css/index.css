@@ -1,0 +1,51 @@
+.cabecalho {
+    align-items: center;
+    background-color: var(--cor-princial);
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0;
+}
+
+.cabecalho__imagem {
+    width: 10%;
+}
+
+.cabecalho__titulo {
+    color: var(--font-color);
+    font-size: 1.3em;
+    font-family: var(--font-principal);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.conteudo__item-imagem {
+    width: 100%;
+}
+
+.conteudo__item-tit-dir {
+    color: var(--font-color);
+    font-family: var(--font-principal);
+    font-size: 1.1em;
+    font-weight: 700;
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
+}
+
+.conteudo__item-tit-esq {
+    color: var(--font-color);
+    font-family: var(--font-principal);
+    font-size: 1.1em;
+    font-weight: 700;
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+
+.rodape {
+    
+    text-align: center;
+    background-color: var(--cor-princial);
+    padding: 1.2rem 0;
+}
+

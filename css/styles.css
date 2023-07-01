@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+:root {
+    --font-principal: 'Montserrat', sans-serif;
+    --font-color: #fdfffc;
+    --cor-princial: #B70404;
+    --cor-primeira-categoria: #DB005B;
+    --cor-segunda-categoria: #F79327;
+    --cor-terceira-categoria: #FFE569;
+    --cor-quarta-categoria: #47A992;
+    --cor-quinta-categoria: #537188;
+    --cor-sexta-categoria: #CBB279;
+    --cor-setima-categoria: #19A7CE;
+    --cor-oitava-categoria: #EEEEEE;  
+}
+
+.container {
+    position: relative;
+}
